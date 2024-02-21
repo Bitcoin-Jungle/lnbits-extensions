@@ -135,11 +135,11 @@
             "id": "boltcards",
             "repo": "https://github.com/leesalminen/boltcards",
             "name": "Boltcards",
-            "version": "0.0.6",
+            "version": "0.0.7",
             "short_description": "Manage your Bolt Cards self custodian way",
             "icon": "https://github.com/lnbits/boltcards/raw/main/static/image/boltcard.png",
-            "archive": "https://github.com/leesalminen/boltcards/archive/refs/tags/v0.0.6.zip",
-            "hash": "ecd8005c96db84a54f750b5cc9cf13b0437488ba744bb8410e1852b246b38909"
+            "archive": "https://github.com/leesalminen/boltcards/archive/refs/tags/v0.0.7.zip",
+            "hash": "c86d4d263eb625f41fcd2f3675acaa170923972a5849f398d6eaa8009e80c45c"
         },
         {
             "id": "nostrnip5",
