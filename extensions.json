@@ -139,7 +139,7 @@
             "short_description": "Manage your Bolt Cards self custodian way",
             "icon": "https://github.com/lnbits/boltcards/raw/main/static/image/boltcard.png",
             "archive": "https://github.com/leesalminen/boltcards/archive/refs/tags/v0.1.0.zip",
-            "hash": "541c1dcf776c7ee774f29d77ca612876acd0d965cf6e9f6309893f3163f43e48"
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         },
         {
             "id": "nostrnip5",
