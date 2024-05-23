@@ -135,7 +135,7 @@
             "id": "boltcards",
             "repo": "https://github.com/leesalminen/boltcards",
             "name": "Boltcards",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "short_description": "Manage your Bolt Cards self custodian way",
             "icon": "https://github.com/lnbits/boltcards/raw/main/static/image/boltcard.png",
             "archive": "https://github.com/leesalminen/boltcards/archive/refs/tags/v0.1.1.zip",
